@@ -4,7 +4,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.default = void 0;
-require("./style/style");
+require("./style/style.css");
 function Modale(props) {
   const text = props.text || 'Employee Created !';
   if (props.display) {

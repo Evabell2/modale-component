@@ -1,4 +1,4 @@
-import "./style/style"
+import "./style/style.css"
 
 function Modale(props) {
     const text = props.text || 'Employee Created !';
