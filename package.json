@@ -1,6 +1,6 @@
 {
   "name": "modale-component-react",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "private": false, 
   "author": "Eva Bellouard", 
   "description": "Open a modale (and close)", 
